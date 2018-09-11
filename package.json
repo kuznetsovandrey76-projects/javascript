@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/kuznetsovandrey76/javascript/issues"
   },
-  "homepage": "https://github.com/kuznetsovandrey76/javascript#readme"
+  "homepage": "https://github.com/kuznetsovandrey76/javascript#readme",
+  "dependencies": {
+    "express": "*"
+  }
 }
